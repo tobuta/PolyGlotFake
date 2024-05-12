@@ -1,0 +1,1509 @@
+{
+    "language": "russian",
+    "version": "1.0",
+    "video count": "136",
+    "creator": {
+        "name": "Fu Haitao",
+        "email": "hatsunemikunofht@gmail.com"
+    },
+    "date_created": "2023-10-01",
+    "license": "MIT",
+    "videos": [
+        {
+            "filename": "ru_1.mp4",
+            "duration": "00:00:09",
+            "source": "Clips from Putin's speech URL:https://www.bilibili.com/video/av360240397/",
+            "characters": [
+                {
+                    "age": 70,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_2.mp4",
+            "duration": "00:00:07",
+            "source": "Clips from Putin's speech URL:https://www.bilibili.com/video/av360240397/",
+            "characters": [
+                {
+                    "age": 70,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_3.mp4",
+            "duration": "00:00:14",
+            "source": "Clips from Putin's speech URL:https://www.bilibili.com/video/av360240397/",
+            "characters": [
+                {
+                    "age": 70,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_4.mp4",
+            "duration": "00:00:09",
+            "source": "Clips from Putin's speech URL:https://www.bilibili.com/video/av360240397/",
+            "characters": [
+                {
+                    "age": 70,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_5.mp4",
+            "duration": "00:00:11",
+            "source": "Clips from Putin's speech URL:https://www.bilibili.com/video/av360240397/",
+            "characters": [
+                {
+                    "age": 70,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_6.mp4",
+            "duration": "00:00:08",
+            "source": "Clips from Moscow News, URL:https://www.bilibili.com/video/BV1js411t7Qf/",
+            "characters": [
+                {
+                    "age": 40,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_7.mp4",
+            "duration": "00:00:10",
+            "source": "Clips from Moscow News, URL:https://www.bilibili.com/video/BV1js411t7Qf/",
+            "characters": [
+                {
+                    "age": 40,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_8.mp4",
+            "duration": "00:00:09",
+            "source": "Clips from Moscow News, URL:https://www.bilibili.com/video/BV1js411t7Qf/",
+            "characters": [
+                {
+                    "age": 40,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_9.mp4",
+            "duration": "00:00:07",
+            "source": "Clips from Moscow News, URL:https://www.bilibili.com/video/BV1js411t7Qf/",
+            "characters": [
+                {
+                    "age": 40,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_10.mp4",
+            "duration": "00:00:10",
+            "source": "Clips from Moscow News, URL:https://www.bilibili.com/video/BV1js411t7Qf/",
+            "characters": [
+                {
+                    "age": 40,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_11.mp4",
+            "duration": "00:00:08",
+            "source": "Clips from Moscow News, URL:https://www.bilibili.com/video/BV1js411t7Qf/",
+            "characters": [
+                {
+                    "age": 40,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_12.mp4",
+            "duration": "00:00:11",
+            "source": "Clips from Moscow News, URL:https://www.bilibili.com/video/BV1js411t7Qf/",
+            "characters": [
+                {
+                    "age": 50,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_13.mp4",
+            "duration": "00:00:11",
+            "source": "Clips from Moscow News, URL:https://www.bilibili.com/video/BV1js411t7Qf/",
+            "characters": [
+                {
+                    "age": 60,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_14.mp4",
+            "duration": "00:00:10",
+            "source": "Clips from Moscow News, URL:https://www.bilibili.com/video/BV1js411t7Qf/",
+            "characters": [
+                {
+                    "age": 65,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_15.mp4",
+            "duration": "00:00:07",
+            "source": "Clips from Moscow News, URL:https://www.bilibili.com/video/BV1js411t7Qf/",
+            "characters": [
+                {
+                    "age": 25,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_16.mp4",
+            "duration": "00:00:10",
+            "source": "Clips from Moscow News, URL:https://www.bilibili.com/video/BV1js411t7Qf/",
+            "characters": [
+                {
+                    "age": 50,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_17.mp4",
+            "duration": "00:00:10",
+            "source": "Clips from Moscow News, URL:https://www.bilibili.com/video/BV1js411t7Qf/",
+            "characters": [
+                {
+                    "age": 50,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_18.mp4",
+            "duration": "00:00:08",
+            "source": "Clips from Moscow News, URL:https://www.bilibili.com/video/BV1js411t7Qf/",
+            "characters": [
+                {
+                    "age": 50,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_19.mp4",
+            "duration": "00:00:08",
+            "source": "Clips from Moscow News, URL:https://www.bilibili.com/video/BV1js411t7Qf/",
+            "characters": [
+                {
+                    "age": 50,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_20.mp4",
+            "duration": "00:00:07",
+            "source": "Clips from Moscow News, URL:https://www.bilibili.com/video/BV1js411t7Qf/",
+            "characters": [
+                {
+                    "age": 35,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_21.mp4",
+            "duration": "00:00:09",
+            "source": "Clips from Moscow News, URL:https://www.bilibili.com/video/BV1js411t7Qf/",
+            "characters": [
+                {
+                    "age": 35,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_22.mp4",
+            "duration": "00:00:10",
+            "source": "Clips from Moscow News, URL:https://www.bilibili.com/video/BV1js411t7Qf/",
+            "characters": [
+                {
+                    "age": 40,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_23.mp4",
+            "duration": "00:00:07",
+            "source": "Clips from Moscow News, URL:https://www.bilibili.com/video/BV1js411t7Qf/",
+            "characters": [
+                {
+                    "age": 40,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_24.mp4",
+            "duration": "00:00:06",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 35,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_25.mp4",
+            "duration": "00:00:06",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 35,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_26.mp4",
+            "duration": "00:00:08",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 35,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_27.mp4",
+            "duration": "00:00:05",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 35,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_28.mp4",
+            "duration": "00:00:08",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 35,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_29.mp4",
+            "duration": "00:00:07",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 35,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_30.mp4",
+            "duration": "00:00:08",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 35,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_31.mp4",
+            "duration": "00:00:07",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 35,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_32.mp4",
+            "duration": "00:00:08",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 35,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_33.mp4",
+            "duration": "00:00:10",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 35,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_34.mp4",
+            "duration": "00:00:09",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 35,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_35.mp4",
+            "duration": "00:00:07",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 35,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_36.mp4",
+            "duration": "00:00:08",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 35,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_37.mp4",
+            "duration": "00:00:08",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 35,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_38.mp4",
+            "duration": "00:00:09",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 35,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_39.mp4",
+            "duration": "00:00:10",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 40,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_40.mp4",
+            "duration": "00:00:10",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 40,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_41.mp4",
+            "duration": "00:00:11",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 40,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_42.mp4",
+            "duration": "00:00:08",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 40,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_43.mp4",
+            "duration": "00:00:08",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 40,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_44.mp4",
+            "duration": "00:00:09",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 40,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_45.mp4",
+            "duration": "00:00:07",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 40,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_46.mp4",
+            "duration": "00:00:10",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 40,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_47.mp4",
+            "duration": "00:00:10",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 40,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_48.mp4",
+            "duration": "00:00:08",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 40,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_49.mp4",
+            "duration": "00:00:09",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 40,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_50.mp4",
+            "duration": "00:00:09",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 40,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_51.mp4",
+            "duration": "00:00:07",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 40,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_52.mp4",
+            "duration": "00:00:10",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_53.mp4",
+            "duration": "00:00:07",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_54.mp4",
+            "duration": "00:00:07",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_55.mp4",
+            "duration": "00:00:09",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_56.mp4",
+            "duration": "00:00:08",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_57.mp4",
+            "duration": "00:00:09",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_58.mp4",
+            "duration": "00:00:09",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_59.mp4",
+            "duration": "00:00:11",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_60.mp4",
+            "duration": "00:00:11",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_61.mp4",
+            "duration": "00:00:10",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_62.mp4",
+            "duration": "00:00:11",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_63.mp4",
+            "duration": "00:00:12",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_64.mp4",
+            "duration": "00:00:08",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_65.mp4",
+            "duration": "00:00:08",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_66.mp4",
+            "duration": "00:00:09",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_67.mp4",
+            "duration": "00:00:08",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_68.mp4",
+            "duration": "00:00:08",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_69.mp4",
+            "duration": "00:00:08",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_70.mp4",
+            "duration": "00:00:10",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_71.mp4",
+            "duration": "00:00:07",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_72.mp4",
+            "duration": "00:00:10",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_73.mp4",
+            "duration": "00:00:11",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_74.mp4",
+            "duration": "00:00:07",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 35,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_75.mp4",
+            "duration": "00:00:07",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 35,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_76.mp4",
+            "duration": "00:00:06",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 35,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_77.mp4",
+            "duration": "00:00:08",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 35,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_78.mp4",
+            "duration": "00:00:09",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 35,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ru_79.mp4",
+            "duration": "00:00:09",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 40,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_80.mp4",
+            "duration": "00:00:10",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 40,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_81.mp4",
+            "duration": "00:00:11",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 40,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_82.mp4",
+            "duration": "00:00:09",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 40,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_83.mp4",
+            "duration": "00:00:09",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 40,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_84.mp4",
+            "duration": "00:00:08",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 40,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_85.mp4",
+            "duration": "00:00:08",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 40,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_86.mp4",
+            "duration": "00:00:07",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 20,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_87.mp4",
+            "duration": "00:00:08",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 20,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_88.mp4",
+            "duration": "00:00:07",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 20,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_89.mp4",
+            "duration": "00:00:10",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 20,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_90.mp4",
+            "duration": "00:00:08",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 20,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_91.mp4",
+            "duration": "00:00:11",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 20,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_92.mp4",
+            "duration": "00:00:11",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 70,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_93.mp4",
+            "duration": "00:00:10",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 70,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_94.mp4",
+            "duration": "00:00:09",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 70,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_95.mp4",
+            "duration": "00:00:09",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 70,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_96.mp4",
+            "duration": "00:00:12",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 70,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_97.mp4",
+            "duration": "00:00:08",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 70,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_98.mp4",
+            "duration": "00:00:08",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 70,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_99.mp4",
+            "duration": "00:00:10",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 70,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_100.mp4",
+            "duration": "00:00:09",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 70,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_101.mp4",
+            "duration": "00:00:09",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 70,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_102.mp4",
+            "duration": "00:00:10",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 70,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_103.mp4",
+            "duration": "00:00:09",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 70,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_104.mp4",
+            "duration": "00:00:09",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 70,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_105.mp4",
+            "duration": "00:00:10",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 70,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_106.mp4",
+            "duration": "00:00:10",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 70,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_107.mp4",
+            "duration": "00:00:10",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 40,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_108.mp4",
+            "duration": "00:00:09",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 40,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_109.mp4",
+            "duration": "00:00:08",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 40,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_110.mp4",
+            "duration": "00:00:07",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 40,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_111.mp4",
+            "duration": "00:00:06",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 40,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_112.mp4",
+            "duration": "00:00:09",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 40,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_113.mp4",
+            "duration": "00:00:09",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 40,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_114.mp4",
+            "duration": "00:00:10",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 40,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_115.mp4",
+            "duration": "00:00:08",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 50,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_116.mp4",
+            "duration": "00:00:08",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 50,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_117.mp4",
+            "duration": "00:00:09",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 50,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_118.mp4",
+            "duration": "00:00:09",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 50,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_119.mp4",
+            "duration": "00:00:08",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 50,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_120.mp4",
+            "duration": "00:00:08",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 50,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_121.mp4",
+            "duration": "00:00:09",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 50,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_122.mp4",
+            "duration": "00:00:09",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 50,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_123.mp4",
+            "duration": "00:00:08",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 50,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_124.mp4",
+            "duration": "00:00:09",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 50,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_125.mp4",
+            "duration": "00:00:07",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 60,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_126.mp4",
+            "duration": "00:00:07",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 60,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_127.mp4",
+            "duration": "00:00:11",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 60,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_128.mp4",
+            "duration": "00:00:09",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 60,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_129.mp4",
+            "duration": "00:00:08",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 60,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_130.mp4",
+            "duration": "00:00:09",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 65,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_131.mp4",
+            "duration": "00:00:09",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 65,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_132.mp4",
+            "duration": "00:00:07",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 65,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_133.mp4",
+            "duration": "00:00:08",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 65,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_134.mp4",
+            "duration": "00:00:11",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 65,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_135.mp4",
+            "duration": "00:00:10",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 35,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ru_136.mp4",
+            "duration": "00:00:08",
+            "source": "Clips from Russian News, URL:https://www.bilibili.com/video/BV1fs411b7T8/",
+            "characters": [
+                {
+                    "age": 35,
+                    "sex": "female"
+                }
+            ]
+        }
+    ]
+}

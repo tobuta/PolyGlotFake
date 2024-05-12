@@ -1,0 +1,10 @@
+{
+    "AzureTts": {
+        "subscription_key": "81ab86edeeb14c33b682607b19fb7180",
+        "region": "japanwest"
+    },
+    "AzureTranslate": {
+        "subscription_key": "05f46acfed1b4fd799ec12ba1ff13dad",
+        "region": "japanwest"
+    }
+}

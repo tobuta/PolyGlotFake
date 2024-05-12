@@ -1,0 +1,673 @@
+{
+    "language": "japanese",
+    "version": "1.0",
+    "video count": "60",
+    "creator": {
+        "name": "Chen Chunkai",
+        "email": "carlchen0425@gmail.com"
+    },
+    "date_created": "2023-09-29",
+    "license": "MIT",
+    "videos": [
+        {
+            "filename": "ja_1.mp4",
+            "duration": "00:00:08",
+            "source": "URL:https://www.youtube.com/watch?v=ARnjAh0rpWY",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ja_2.mp4",
+            "duration": "00:00:10",
+            "source": "URL:https://www.youtube.com/watch?v=ARnjAh0rpWY",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ja_3.mp4",
+            "duration": "00:00:09",
+            "source": "URL:https://www.youtube.com/watch?v=ARnjAh0rpWY",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ja_4.mp4",
+            "duration": "00:00:12",
+            "source": "URL:https://www.youtube.com/watch?v=ARnjAh0rpWY",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ja_5.mp4",
+            "duration": "00:00:13",
+            "source": "URL:https://www.youtube.com/watch?v=Kyq6C8J24EI",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ja_6.mp4",
+            "duration": "00:00:11",
+            "source": "URL:https://www.youtube.com/watch?v=Kyq6C8J24EI",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ja_7.mp4",
+            "duration": "00:00:12",
+            "source": "URL:https://www.youtube.com/watch?v=Kyq6C8J24EI",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ja_8.mp4",
+            "duration": "00:00:10",
+            "source": "URL:https://www.youtube.com/watch?v=Kyq6C8J24EI",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ja_9.mp4",
+            "duration": "00:00:12",
+            "source": "URL:https://www.youtube.com/watch?v=5SmFScEGeec",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ja_10.mp4",
+            "duration": "00:00:12",
+            "source": "URL:https://www.youtube.com/watch?v=5SmFScEGeec",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ja_11.mp4",
+            "duration": "00:00:11",
+            "source": "URL:https://www.youtube.com/watch?v=5SmFScEGeec",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ja_12.mp4",
+            "duration": "00:00:8",
+            "source": "URL:https://www.youtube.com/watch?v=5SmFScEGeec",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ja_13.mp4",
+            "duration": "00:00:10",
+            "source": "URL:https://www.youtube.com/watch?v=Npb0Se861c4",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ja_14.mp4",
+            "duration": "00:00:09",
+            "source": "URL:https://www.youtube.com/watch?v=Npb0Se861c4",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ja_15.mp4",
+            "duration": "00:00:08",
+            "source": "URL:https://www.youtube.com/watch?v=Npb0Se861c4",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ja_16.mp4",
+            "duration": "00:00:07",
+            "source": "URL:https://www.youtube.com/watch?v=Npb0Se861c4",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ja_17.mp4",
+            "duration": "00:00:11",
+            "source": "URL:https://www.youtube.com/watch?v=q9Lf3yv4lPc",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ja_18.mp4",
+            "duration": "00:00:09",
+            "source": "URL:https://www.youtube.com/watch?v=q9Lf3yv4lPc",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ja_19.mp4",
+            "duration": "00:00:09",
+            "source": "URL:https://www.youtube.com/watch?v=q9Lf3yv4lPc",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ja_20.mp4",
+            "duration": "00:00:12",
+            "source": "URL:https://www.youtube.com/watch?v=q9Lf3yv4lPc",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ja_21.mp4",
+            "duration": "00:00:11",
+            "source": "URL:https://www.youtube.com/watch?v=E5c2TlBRX50",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ja_22.mp4",
+            "duration": "00:00:10",
+            "source": "URL:https://www.youtube.com/watch?v=E5c2TlBRX50",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ja_23.mp4",
+            "duration": "00:00:10",
+            "source": "URL:https://www.youtube.com/watch?v=E5c2TlBRX50",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ja_24.mp4",
+            "duration": "00:00:11",
+            "source": "URL:https://www.youtube.com/watch?v=E5c2TlBRX50",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ja_25.mp4",
+            "duration": "00:00:10",
+            "source": "URL:https://www.youtube.com/watch?v=Zt1L5CVOa24",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ja_26.mp4",
+            "duration": "00:00:08",
+            "source": "URL:https://www.youtube.com/watch?v=Zt1L5CVOa24",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ja_27.mp4",
+            "duration": "00:00:09",
+            "source": "URL:https://www.youtube.com/watch?v=Zt1L5CVOa24",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ja_28.mp4",
+            "duration": "00:00:09",
+            "source": "URL:https://www.youtube.com/watch?v=Zt1L5CVOa24",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ja_29.mp4",
+            "duration": "00:00:07",
+            "source": "URL:https://www.youtube.com/watch?v=8JcF0Q6gBqA",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ja_30.mp4",
+            "duration": "00:00:12",
+            "source": "URL:https://www.youtube.com/watch?v=8JcF0Q6gBqA",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ja_31.mp4",
+            "duration": "00:00:10",
+            "source": "URL:https://www.youtube.com/watch?v=8JcF0Q6gBqA",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ja_32.mp4",
+            "duration": "00:00:09",
+            "source": "URL:https://www.youtube.com/watch?v=8JcF0Q6gBqA",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ja_33.mp4",
+            "duration": "00:00:07",
+            "source": "URL:https://www.youtube.com/watch?v=np3pEBVuWa8",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ja_34.mp4",
+            "duration": "00:00:10",
+            "source": "URL:https://www.youtube.com/watch?v=np3pEBVuWa8",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ja_35.mp4",
+            "duration": "00:00:11",
+            "source": "URL:https://www.youtube.com/watch?v=np3pEBVuWa8",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ja_36.mp4",
+            "duration": "00:00:12",
+            "source": "URL:https://www.youtube.com/watch?v=np3pEBVuWa8",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ja_37.mp4",
+            "duration": "00:00:09",
+            "source": "URL:https://www.youtube.com/watch?v=JWCLyg5foCo",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ja_38.mp4",
+            "duration": "00:00:10",
+            "source": "URL:https://www.youtube.com/watch?v=JWCLyg5foCo",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ja_39.mp4",
+            "duration": "00:00:09",
+            "source": "URL:https://www.youtube.com/watch?v=JWCLyg5foCo",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ja_40.mp4",
+            "duration": "00:00:13",
+            "source": "URL:https://www.youtube.com/watch?v=JWCLyg5foCo",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ja_41.mp4",
+            "duration": "00:00:09",
+            "source": "URL:https://www.youtube.com/watch?v=MXO9oma5yfw",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ja_42.mp4",
+            "duration": "00:00:07",
+            "source": "URL:https://www.youtube.com/watch?v=MXO9oma5yfw",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ja_43.mp4",
+            "duration": "00:00:10",
+            "source": "URL:https://www.youtube.com/watch?v=MXO9oma5yfw",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ja_44.mp4",
+            "duration": "00:00:12",
+            "source": "URL:https://www.youtube.com/watch?v=MXO9oma5yfw",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ja_45.mp4",
+            "duration": "00:00:08",
+            "source": "URL:https://www.youtube.com/watch?v=-6uNy2jmg40",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ja_46.mp4",
+            "duration": "00:00:07",
+            "source": "URL:https://www.youtube.com/watch?v=-6uNy2jmg40",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ja_47.mp4",
+            "duration": "00:00:09",
+            "source": "URL:https://www.youtube.com/watch?v=-6uNy2jmg40",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ja_48.mp4",
+            "duration": "00:00:09",
+            "source": "URL:https://www.youtube.com/watch?v=-6uNy2jmg40",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ja_49.mp4",
+            "duration": "00:00:09",
+            "source": "URL:https://www.youtube.com/watch?v=eKPO7Z0W3fI",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ja_50.mp4",
+            "duration": "00:00:11",
+            "source": "URL:https://www.youtube.com/watch?v=eKPO7Z0W3fI",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ja_51.mp4",
+            "duration": "00:00:10",
+            "source": "URL:https://www.youtube.com/watch?v=eKPO7Z0W3fI",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ja_52.mp4",
+            "duration": "00:00:12",
+            "source": "URL:https://www.youtube.com/watch?v=eKPO7Z0W3fI",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ja_53.mp4",
+            "duration": "00:00:09",
+            "source": "URL:https://www.youtube.com/watch?v=1SdtL0AgibE",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ja_54.mp4",
+            "duration": "00:00:11",
+            "source": "URL:https://www.youtube.com/watch?v=c_6KVF86PUw",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ja_55.mp4",
+            "duration": "00:00:10",
+            "source": "URL:https://www.youtube.com/watch?v=67W5SI1MFs4",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ja_56.mp4",
+            "duration": "00:00:13",
+            "source": "URL:https://www.youtube.com/watch?v=9sVKPKhfg_Q",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ja_57.mp4",
+            "duration": "00:00:10",
+            "source": "URL:https://www.youtube.com/watch?v=EjXacGkzpFc",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ja_58.mp4",
+            "duration": "00:00:08",
+            "source": "URL:https://www.youtube.com/watch?v=GFEivx0c9tE",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "female"
+                }
+            ]
+        },
+        {
+            "filename": "ja_59.mp4",
+            "duration": "00:00:10",
+            "source": "URL:https://www.youtube.com/watch?v=V0oclwtBdoA",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "male"
+                }
+            ]
+        },
+        {
+            "filename": "ja_60.mp4",
+            "duration": "00:00:08",
+            "source": "URL:https://www.youtube.com/watch?v=V0oclwtBdoA",
+            "characters": [
+                {
+                    "age": 30,
+                    "sex": "male"
+                }
+            ]
+        }
+    ]
+}
