@@ -1,7 +1,7 @@
 # PolyGlotFake Dataset
 
 ## Overview
-PolyGlotFake is a novel multilingual and multimodal deepfake dataset meticulously designed to address the challenges and demands of deepfake detection technologies. It consists of videos with manipulated audio and visual components across seven languages, employing advanced Text-to-Speech, voice cloning, and lip-sync technologies. This dataset not only enhances the rigor of multimodal deepfake detection research but also contributes to understanding the nuances of linguistic diversity in deepfake generation.
+PolyGlotFake is a novel multilingual and multimodal deepfake dataset meticulously designed to address the challenges and demands of deepfake detection technologies. It consists of videos with manipulated audio and visual components across seven languages, employing advanced Text-to-Speech, voice cloning, and lip-sync technologies. 
 
 ![Overview of Dataset](path/to/dataset_overview_image.png)
 
