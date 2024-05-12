@@ -45,6 +45,24 @@ PolyGlotFake is a novel multilingual and multimodal deepfake dataset meticulousl
 ![Generation Pipeline](./images/pipeline.jpg)
 
 ## Deepfake Detection Benchmark
+### Evaluation Results and Comparisons
+
+| Type      | Detector         | Backbone      | FakeAVCeleb | DFDC   | PolyGlotFake |
+|-----------|------------------|---------------|-------------|--------|--------------|
+| Naive     | MesoNet          | Designed      | 0.7332      | 0.5906 | 0.5672       |
+| Naive     | MesoInception    | Designed      | 0.7945      | 0.6344 | 0.5831       |
+| Naive     | Xception         | Xception      | 0.9169      | 0.6530 | 0.6052       |
+| Naive     | EfficienNet-B4   | EfficienNet   | 0.9023      | 0.6020 | 0.5769       |
+| Spatial   | Capsule          | Capsule       | 0.8663      | 0.6146 | 0.6068       |
+| Spatial   | FFD              | Xception      | 0.9285      | 0.6583 | 0.5960       |
+| Spatial   | CORE             | Xception      | 0.9345      | 0.6625 | 0.6220       |
+| Spatial   | RECCE            | Designed      | 0.9396      | 0.6884 | 0.6596       |
+| Spatial   | DSP-FWA          | Xception      | 0.9115      | 0.6929 | 0.6658       |
+| Frequency | F3Net            | Xception      | 0.9416      | 0.6452 | 0.6439       |
+| Frequency | SRM              | Xception      | 0.9043      | 0.6346 | 0.6143       |
+| Ensemble  | XRes             | Designed      | 0.9556      | 0.7042 | 0.6835       |
+
+
 
 ## Visualization
 ![Overview of Dataset](./images/visualization.jpg)
