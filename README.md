@@ -67,5 +67,5 @@ PolyGlotFake is a novel multilingual and multimodal deepfake dataset meticulousl
 ## Visualization
 ![Overview of Dataset](./images/visualization.jpg)
 ## Citation
-Please cite the following paper if you use the PolyGlotFake dataset in your research:
+
 
