@@ -14,8 +14,10 @@ PolyGlotFake is a novel multilingual and multimodal deepfake dataset meticulousl
 - **Average Video Duration**: 11.79 seconds
 
 ### Languages and Synthesis Methods Distribution
-- Language: English · French · Spanish · Russian · Chinese · Arabic · Japanese
-- Synthesis methods: Audio: XTTS Bark
+- Language: English; French; Spanish; Russian; Chinese; Arabic; Japanese
+- Synthesis methods:
+  Audio manipulation: Bark+FreeVC; MicroTTS+FreeVC; XTTS; Tacotron+FreeVC; Vall-E-X
+  Video manipulation: VideoRetalking; Wav2Lip
 
 <p float="left">
   <img src="./images/lang_new.jpg" width="45%" />
