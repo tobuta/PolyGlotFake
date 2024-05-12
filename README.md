@@ -23,8 +23,8 @@ PolyGlotFake is a novel multilingual and multimodal deepfake dataset meticulousl
 - Japanese
 
 <p float="left">
-  <img src="./images/lang_new.jpg" width="50%" />
-  <img src="./images/tech.jpg" width="50%" /> 
+  <img src="./images/lang_new.jpg" width="30%" />
+  <img src="./images/tech.jpg" width="30%" /> 
 </p>
 
 ## Generation Pipeline
