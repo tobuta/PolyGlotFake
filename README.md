@@ -13,14 +13,9 @@ PolyGlotFake is a novel multilingual and multimodal deepfake dataset meticulousl
 - **Resolution**: 1280x720
 - **Average Video Duration**: 11.79 seconds
 
-### Languages Covered
-- English
-- French
-- Spanish
-- Russian
-- Chinese
-- Arabic
-- Japanese
+### Languages and Synthesis Methods Distribution
+- Language: English · French · Spanish · Russian · Chinese · Arabic · Japanese
+- Synthesis methods: Audio: XTTS Bark
 
 <p float="left">
   <img src="./images/lang_new.jpg" width="45%" />
