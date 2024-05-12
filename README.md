@@ -22,7 +22,10 @@ PolyGlotFake is a novel multilingual and multimodal deepfake dataset meticulousl
 - Arabic
 - Japanese
 
-![Language Distribution](./images/lang_new.jpg)
+<p float="left">
+  <img src="./images/lang_new.jpg" width="50%" />
+  <img src="./images/tech.jpg" width="50%" /> 
+</p>
 
 ## Generation Pipeline
 ![Generation Pipeline](./images/pipeline.jpg)
@@ -31,8 +34,8 @@ PolyGlotFake is a novel multilingual and multimodal deepfake dataset meticulousl
 - **Text-to-Speech Engines**: XTTS, Microsoft TTS + FreeVC, Tacotron + FreeVC
 - **Lip Sync Technologies**: Wav2Lip + GANs, VideoRetalking
 
-## How to Use
-To access the PolyGlotFake dataset, please visit our [GitHub repository](https://github.com/tobuta/PolyGlotFake). Detailed instructions for downloading and using the dataset are provided there.
+## Deepfake Detection Benchmark
+
 
 ## Citation
 Please cite the following paper if you use the PolyGlotFake dataset in your research:
