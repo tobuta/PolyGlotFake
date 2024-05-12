@@ -24,18 +24,8 @@ PolyGlotFake is a novel multilingual and multimodal deepfake dataset meticulousl
 
 ![Language Distribution](./images/lang_new.jpg)
 
-### Video Examples
-Below are some examples from the dataset showing the diversity and complexity of the videos included.
-![Video Samples](path/to/video_samples_image.png)
-
-## Generation Process
-1. **Separation of Video and Audio**: Initially, videos are dissected into separate audio and visual tracks.
-2. **Audio Transcription**: Audio tracks are transcribed to text using advanced AI-based tools like Whisper.
-3. **Text Translation**: The transcribed texts are then translated into the other six languages included in the dataset.
-4. **Text-to-Speech (TTS)**: These translated texts are transformed back into spoken audio using various TTS technologies.
-5. **Lip Syncing**: The newly generated audio is synchronized with the video tracks using state-of-the-art lip-sync technologies.
-
-![Generation Pipeline](path/to/generation_pipeline_image.png)
+## Generation Pipeline
+![Generation Pipeline](./images/pipeline.jpg)
 
 ## Key Technologies Employed
 - **Text-to-Speech Engines**: XTTS, Microsoft TTS + FreeVC, Tacotron + FreeVC
