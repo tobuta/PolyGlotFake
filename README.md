@@ -22,7 +22,7 @@ PolyGlotFake is a novel multilingual and multimodal deepfake dataset meticulousl
 - Arabic
 - Japanese
 
-![Language Distribution](path/to/language_distribution_image.png)
+![Language Distribution](./images/lang_new.jpg)
 
 ### Video Examples
 Below are some examples from the dataset showing the diversity and complexity of the videos included.
