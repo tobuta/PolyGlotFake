@@ -76,5 +76,12 @@ Please fill out this form to request access to the PolyGlotFake Dataset. We will
 Access to the dataset is restricted to academic institutions and is intended solely for research use. It complies with YouTube's fair use policy through its transformative, non-commercial use, by including only brief excerpts (approximately 20 seconds) from each YouTube video, and ensuring that these excerpts do not adversely affect the copyright owners' ability to earn revenue from their original content. Should any copyright owner feel their rights have been infringed, we are committed to promptly removing the contested material from our dataset.
 
 ## Citation
-
+@misc{hou2024polyglotfake,
+      title={PolyGlotFake: A Novel Multilingual and Multimodal DeepFake Dataset}, 
+      author={Yang Hou and Haitao Fu and Chuankai Chen and Zida Li and Haoyu Zhang and Jianjun Zhao},
+      year={2024},
+      eprint={2405.08838},
+      archivePrefix={arXiv},
+      primaryClass={cs.SD}
+}
 
