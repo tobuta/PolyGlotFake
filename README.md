@@ -71,7 +71,7 @@ Please download from this link: https://drive.google.com/file/d/1aBWLii-TbrpKNLS
 ![Overview of Dataset](./images/visualization.jpg)
 
 ## Ethics Statement
-Access to the dataset is restricted to academic institutions and is intended solely for research use. It complies with YouTube's fair use policy through its transformative, non-commercial use, by including only brief excerpts (approximately 20 seconds) from each YouTube video, and ensuring that these excerpts do not adversely affect the copyright owners' ability to earn revenue from their original content. Should any copyright owner feel their rights have been infringed, we are committed to promptly removing the contested material from our dataset.
+Access to the dataset is restricted to academic institutions and is intended solely for research use. It complies with fair use principles through its transformative, non-commercial use, by including only brief excerpts (approximately 20 seconds) from each video source, and ensuring that these excerpts do not adversely affect the copyright owners' ability to earn revenue from their original content. Should any copyright owner feel their rights have been infringed, we are committed to promptly removing the contested material from our dataset.
 
 ## Citation
 
