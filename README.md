@@ -6,7 +6,7 @@ PolyGlotFake is a novel multilingual and multimodal deepfake dataset meticulousl
 ## Download DataSet
 Please fill out this form to request access to the PolyGlotFake Dataset. We will review your request and respond as soon as possible.
 
-- [Google form](https://docs.google.com/forms/d/e/1FAIpQLSefodHqoEkOXpA6r0n8jru_-7G1_2FRbA0yYWw3JTaqMoMvJw/viewform?vc=0&c=0&w=1&flr=0)
+- Please download from this link: https://drive.google.com/file/d/1aBWLii-TbrpKNLSTwpmjqu98eKovWLxF/view?usp=drive_link
 
 ## Quantitative Comparison 
 
