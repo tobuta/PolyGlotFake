@@ -78,7 +78,7 @@ Access to the dataset is restricted to academic institutions and is intended sol
 ```bibtex
 @misc{hou2024polyglotfake,
       title={PolyGlotFake: A Novel Multilingual and Multimodal DeepFake Dataset}, 
-      author={Yang Hou and Haitao Fu and Chuankai Chen and Zida Li and Haoyu Zhang and Jianjun Zhao},
+      author={Yang Hou and Haitao Fu and Chunkai Chen and Zida Li and Haoyu Zhang and Jianjun Zhao},
       year={2024},
       eprint={2405.08838},
       archivePrefix={arXiv},
